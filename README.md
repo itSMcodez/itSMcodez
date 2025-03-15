@@ -1,4 +1,4 @@
-# Hey there, I'm Solomon! ([@itSMcodez Official](https://github.com/itSMcodez-Official) owner) 👋
+# Hey there, I'm Solomon! ([@itSMcodez Official](https://github.com/itSMcodez-Official) CEO) 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding, learning, and sharing knowledge. Here you'll find a collection of my projects, contributions, and everything in between.
 
